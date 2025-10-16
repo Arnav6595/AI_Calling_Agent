@@ -61,3 +61,4 @@ Thumbs.db
 
 #other non usable files
 running_steps
+docker-compose.yml
