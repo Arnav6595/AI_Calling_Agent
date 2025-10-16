@@ -1,0 +1,63 @@
+# ----------------------------------------------------------------
+# General Python .gitignore
+# ----------------------------------------------------------------
+
+# Environment Variables
+# Never commit your .env file as it contains sensitive secrets and API keys.
+.env
+.env.*
+!.env.example
+
+# Virtual Environments
+# These are specific to your machine and can be large.
+# Your requirements.txt file should be used to recreate the environment.
+venv/
+env/
+virtualenv/
+__pypackages__/
+
+# Python Cache & Compiled Files
+# These are generated automatically by Python and don't need to be version controlled.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Build, Distribution, and Packaging Artifacts
+# Generated when you build or package your application.
+build/
+dist/
+*.egg-info/
+*.egg
+wheelhouse/
+*.whl
+
+# Testing & Coverage Reports
+# These are generated during test runs.
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+
+# IDE and Editor Specific Files
+# Your personal editor settings don't belong in the project repository.
+.idea/      # For PyCharm or other JetBrains IDEs
+.vscode/    # For Visual Studio Code (unless sharing specific launch/tasks configs)
+*.swp
+*.swo
+
+# Log Files
+# Logs are machine-specific and can become very large.
+*.log
+logs/
+
+# Operating System Files
+# Junk files created by macOS, Windows, or Linux.
+.DS_Store
+Thumbs.db
+
+#other non usable files
+running_steps.txt

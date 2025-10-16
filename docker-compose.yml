@@ -1,0 +1,26 @@
+# docker-compose.yml
+services:
+  # This is the name of your service, you can call it anything
+  rag-api:
+    # Tells Docker Compose to build the image from the Dockerfile in the current directory (.)
+    build: .
+    
+    # This is the magic part! It tells the service to load environment variables
+    # from the .env file in the same directory.
+    env_file:
+      - .env
+      
+    # This maps port 8000 on your local machine to port 8000 inside the container.
+    # Your FastAPI app will be accessible at http://localhost:8000
+    ports:
+      - "8000:8000"
+      
+    # This sets up a "volume" for live code reloading. Any changes you make in your
+    # local './app' folder will be instantly reflected inside the container's '/app/app'
+    # folder, so you don't have to rebuild the image for every code change.
+    volumes:
+      - ./app:/app/app
+
+    # Overrides the default command from the Dockerfile to enable --reload for development
+    # This makes Gunicorn restart automatically when you save a file.
+    command: gunicorn --bind 0.0.0.0:8000 --workers 1 --worker-class uvicorn.workers.UvicornWorker --timeout 0 --reload "main:app"

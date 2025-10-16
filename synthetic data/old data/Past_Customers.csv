@@ -1,0 +1,21 @@
+CustomerID,CustomerName,ContactInfo,Address,FirstPurchaseDate
+CUST0001,Aarav Sharma,aarav.s@email.com,A-101, Serenity Gardens, Pune,2010-04-22
+CUST0002,Vivaan Singh,v.singh@email.com,B-203, Serenity Gardens, Pune,2010-05-15
+CUST0003,Aditya Kumar,aditya.k@email.com,C-405, Serenity Gardens, Pune,2010-05-28
+CUST0004,Arjun Reddy,arjun.r@email.com,A-102, Serenity Gardens, Pune,2010-06-11
+CUST0005,Sai Patel,sai.patel@email.com,D-501, Serenity Gardens, Pune,2010-07-03
+CUST0006,Reyansh Gupta,r.gupta@email.com,Villa 01, Royal Palms, Mumbai,2011-07-19
+CUST0007,Krishna Mehta,krishna.m@email.com,B-301, Serenity Gardens, Pune,2011-08-01
+CUST0008,Ishaan Joshi,ishaan.j@email.com,T1-1201, Royal Palms, Mumbai,2011-08-21
+CUST0009,Rohan Verma,rohan.v@email.com,Villa 02, Royal Palms, Mumbai,2011-09-05
+CUST0010,Dhruv Mishra,dhruv.m@email.com,C-401, Serenity Gardens, Pune,2011-09-18
+CUST0011,Vihaan Iyer,vihaan.i@email.com,E-704, Cyber Vista, Bengaluru,2012-10-01
+CUST0012,Advik Shah,advik.shah@email.com,T2-1504, Royal Palms, Mumbai,2012-10-14
+CUST0013,Kabir Nair,kabir.n@email.com,F-801, Cyber Vista, Bengaluru,2012-11-03
+CUST0014,Ansh Rao,anshrao@email.com,A-202, Cyber Vista, Bengaluru,2012-11-25
+CUST0015,Parth Desai,parth.d@email.com,D-505, Serenity Gardens, Pune,2012-12-08
+CUST0016,Ayaan Pillai,ayaan.p@email.com,B-303, Cyber Vista, Bengaluru,2013-01-15
+CUST0017,Leo Menon,leo.menon@email.com,T1-1802, Royal Palms, Mumbai,2013-02-20
+CUST0018,Aryan Reddy,aryan.r@email.com,A-104, Serenity Gardens, Pune,2013-03-04
+CUST0019,Neel Kumar,neel.k@email.com,C-501, Cyber Vista, Bengaluru,2013-03-19
+CUST0020,Yash Sharma,yash.s@email.com,E-602, Serenity Gardens, Pune,2013-04-01

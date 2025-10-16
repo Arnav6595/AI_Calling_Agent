@@ -1,0 +1,953 @@
+FeedbackID,CustomerID,ProjectID,FeedbackDate,Rating,Comments
+FDBK0001,CUST0001,PROJ001,2013-10-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0002,CUST0002,PROJ001,2013-06-23,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0003,CUST0004,PROJ001,2013-06-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0004,CUST0007,PROJ001,2013-10-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0005,CUST0010,PROJ001,2014-03-18,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0006,CUST0012,PROJ001,2014-01-20,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0007,CUST0013,PROJ001,2014-03-27,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0008,CUST0015,PROJ001,2014-03-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0009,CUST0017,PROJ001,2014-03-20,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0010,CUST0018,PROJ001,2013-11-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0011,CUST0019,PROJ001,2014-04-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0012,CUST0020,PROJ001,2014-01-13,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0013,CUST0024,PROJ001,2014-02-15,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0014,CUST0025,PROJ001,2014-05-14,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0015,CUST0026,PROJ001,2013-11-18,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0016,CUST0027,PROJ001,2013-07-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0017,CUST0028,PROJ001,2014-01-12,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0018,CUST0030,PROJ001,2013-09-26,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0019,CUST0032,PROJ001,2013-06-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0020,CUST0033,PROJ001,2013-08-29,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0021,CUST0036,PROJ001,2014-02-16,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0022,CUST0037,PROJ001,2013-12-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0023,CUST0039,PROJ001,2013-07-24,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0024,CUST0040,PROJ001,2014-04-09,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0025,CUST0042,PROJ001,2014-04-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0026,CUST0043,PROJ001,2013-12-18,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0027,CUST0044,PROJ001,2013-12-18,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0028,CUST0045,PROJ001,2014-05-03,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0029,CUST0046,PROJ001,2014-03-17,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0030,CUST0047,PROJ001,2013-09-18,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0031,CUST0049,PROJ001,2013-10-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0032,CUST0050,PROJ001,2013-10-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0033,CUST0051,PROJ001,2013-08-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0034,CUST0052,PROJ001,2013-11-21,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0035,CUST0053,PROJ001,2013-11-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0036,CUST0054,PROJ001,2014-01-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0037,CUST0056,PROJ001,2013-07-08,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0038,CUST0057,PROJ001,2013-08-06,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0039,CUST0058,PROJ002,2015-05-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0040,CUST0059,PROJ002,2014-11-04,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0041,CUST0060,PROJ001,2013-09-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0042,CUST0062,PROJ001,2014-03-30,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0043,CUST0063,PROJ002,2014-10-05,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0044,CUST0064,PROJ002,2015-05-08,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0045,CUST0065,PROJ001,2013-10-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0046,CUST0066,PROJ001,2013-11-08,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0047,CUST0068,PROJ001,2013-12-02,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0048,CUST0069,PROJ001,2014-04-17,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0049,CUST0071,PROJ002,2015-01-15,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0050,CUST0072,PROJ002,2014-12-19,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0051,CUST0073,PROJ002,2014-12-15,2,Significant delay in handover. The final product feels rushed.
+FDBK0052,CUST0075,PROJ001,2014-04-30,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0053,CUST0077,PROJ002,2015-03-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0054,CUST0078,PROJ001,2013-12-08,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0055,CUST0080,PROJ002,2015-06-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0056,CUST0082,PROJ001,2013-08-14,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0057,CUST0086,PROJ001,2014-01-25,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0058,CUST0087,PROJ002,2015-05-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0059,CUST0088,PROJ001,2014-03-03,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0060,CUST0089,PROJ001,2014-01-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0061,CUST0091,PROJ002,2015-06-06,2,Significant delay in handover. The final product feels rushed.
+FDBK0062,CUST0092,PROJ002,2015-02-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0063,CUST0094,PROJ001,2014-02-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0064,CUST0095,PROJ002,2015-07-08,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0065,CUST0096,PROJ002,2015-01-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0066,CUST0097,PROJ002,2014-12-09,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0067,CUST0098,PROJ001,2013-06-21,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0068,CUST0099,PROJ002,2014-11-28,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0069,CUST0100,PROJ001,2013-12-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0070,CUST0101,PROJ001,2013-10-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0071,CUST0102,PROJ002,2015-01-09,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0072,CUST0103,PROJ001,2013-09-02,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0073,CUST0104,PROJ002,2014-12-24,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0074,CUST0105,PROJ002,2015-04-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0075,CUST0106,PROJ002,2014-11-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0076,CUST0107,PROJ002,2015-07-08,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0077,CUST0108,PROJ002,2014-10-31,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0078,CUST0109,PROJ002,2015-04-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0079,CUST0110,PROJ001,2013-09-30,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0080,CUST0111,PROJ002,2015-06-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0081,CUST0112,PROJ002,2015-05-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0082,CUST0113,PROJ002,2014-10-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0083,CUST0114,PROJ001,2013-12-22,2,Significant delay in handover. The final product feels rushed.
+FDBK0084,CUST0115,PROJ001,2014-04-14,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0085,CUST0116,PROJ002,2015-05-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0086,CUST0117,PROJ002,2015-08-10,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0087,CUST0118,PROJ002,2015-04-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0088,CUST0119,PROJ001,2014-03-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0089,CUST0122,PROJ002,2014-12-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0090,CUST0123,PROJ001,2014-03-08,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0091,CUST0126,PROJ002,2014-11-23,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0092,CUST0127,PROJ001,2014-04-10,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0093,CUST0128,PROJ001,2013-09-10,2,Significant delay in handover. The final product feels rushed.
+FDBK0094,CUST0129,PROJ001,2013-09-17,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0095,CUST0132,PROJ002,2015-07-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0096,CUST0133,PROJ001,2013-12-20,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0097,CUST0134,PROJ002,2015-06-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0098,CUST0135,PROJ003,2016-03-29,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0099,CUST0136,PROJ001,2013-10-14,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0100,CUST0137,PROJ003,2016-08-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0101,CUST0139,PROJ003,2016-11-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0102,CUST0140,PROJ001,2013-12-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0103,CUST0142,PROJ001,2013-10-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0104,CUST0143,PROJ001,2013-11-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0105,CUST0145,PROJ003,2016-05-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0106,CUST0147,PROJ002,2015-01-03,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0107,CUST0148,PROJ001,2013-11-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0108,CUST0149,PROJ001,2014-04-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0109,CUST0150,PROJ002,2015-07-05,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0110,CUST0151,PROJ003,2016-04-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0111,CUST0152,PROJ002,2015-06-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0112,CUST0154,PROJ003,2016-02-16,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0113,CUST0155,PROJ001,2013-10-21,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0114,CUST0158,PROJ001,2013-07-11,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0115,CUST0159,PROJ003,2016-04-19,2,Significant delay in handover. The final product feels rushed.
+FDBK0116,CUST0161,PROJ001,2014-04-27,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0117,CUST0164,PROJ003,2016-05-28,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0118,CUST0166,PROJ002,2014-11-17,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0119,CUST0167,PROJ003,2016-03-18,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0120,CUST0168,PROJ002,2015-03-13,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0121,CUST0169,PROJ001,2014-05-19,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0122,CUST0170,PROJ003,2016-01-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0123,CUST0171,PROJ001,2014-01-06,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0124,CUST0173,PROJ001,2013-08-19,2,Significant delay in handover. The final product feels rushed.
+FDBK0125,CUST0174,PROJ003,2016-01-22,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0126,CUST0177,PROJ001,2013-11-18,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0127,CUST0178,PROJ003,2016-09-27,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0128,CUST0180,PROJ001,2013-12-11,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0129,CUST0181,PROJ003,2016-11-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0130,CUST0183,PROJ003,2016-07-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0131,CUST0184,PROJ001,2013-08-31,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0132,CUST0187,PROJ002,2015-02-06,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0133,CUST0188,PROJ003,2016-05-13,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0134,CUST0189,PROJ003,2016-03-19,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0135,CUST0190,PROJ003,2016-03-07,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0136,CUST0192,PROJ001,2014-05-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0137,CUST0193,PROJ003,2016-09-05,2,Significant delay in handover. The final product feels rushed.
+FDBK0138,CUST0194,PROJ002,2015-03-03,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0139,CUST0195,PROJ002,2015-05-29,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0140,CUST0198,PROJ003,2016-07-27,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0141,CUST0200,PROJ001,2013-10-03,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0142,CUST0201,PROJ001,2014-04-24,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0143,CUST0202,PROJ003,2016-05-08,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0144,CUST0203,PROJ002,2014-12-16,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0145,CUST0204,PROJ001,2013-08-13,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0146,CUST0205,PROJ003,2015-12-31,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0147,CUST0208,PROJ003,2016-07-25,2,Significant delay in handover. The final product feels rushed.
+FDBK0148,CUST0211,PROJ002,2014-12-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0149,CUST0213,PROJ002,2014-12-18,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0150,CUST0214,PROJ001,2013-11-15,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0151,CUST0215,PROJ003,2016-08-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0152,CUST0216,PROJ001,2013-09-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0153,CUST0217,PROJ001,2014-02-17,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0154,CUST0218,PROJ003,2016-09-26,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0155,CUST0219,PROJ003,2016-01-05,2,Significant delay in handover. The final product feels rushed.
+FDBK0156,CUST0220,PROJ001,2013-12-31,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0157,CUST0222,PROJ001,2014-01-31,2,Significant delay in handover. The final product feels rushed.
+FDBK0158,CUST0223,PROJ003,2016-09-13,2,Significant delay in handover. The final product feels rushed.
+FDBK0159,CUST0224,PROJ003,2016-02-05,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0160,CUST0225,PROJ001,2013-12-18,2,Significant delay in handover. The final product feels rushed.
+FDBK0161,CUST0226,PROJ002,2014-11-27,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0162,CUST0227,PROJ001,2014-02-01,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0163,CUST0229,PROJ003,2016-07-19,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0164,CUST0230,PROJ002,2014-11-16,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0165,CUST0231,PROJ001,2013-09-27,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0166,CUST0232,PROJ003,2016-02-17,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0167,CUST0233,PROJ003,2016-02-23,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0168,CUST0235,PROJ002,2015-04-28,2,Significant delay in handover. The final product feels rushed.
+FDBK0169,CUST0236,PROJ003,2016-05-23,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0170,CUST0237,PROJ001,2013-07-20,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0171,CUST0238,PROJ002,2014-10-20,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0172,CUST0240,PROJ001,2014-04-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0173,CUST0241,PROJ003,2016-07-10,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0174,CUST0242,PROJ001,2014-02-15,2,Significant delay in handover. The final product feels rushed.
+FDBK0175,CUST0243,PROJ003,2016-06-02,2,Significant delay in handover. The final product feels rushed.
+FDBK0176,CUST0244,PROJ001,2013-10-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0177,CUST0247,PROJ002,2014-11-11,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0178,CUST0248,PROJ003,2016-04-22,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0179,CUST0250,PROJ003,2016-08-01,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0180,CUST0251,PROJ002,2015-05-14,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0181,CUST0253,PROJ002,2015-04-22,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0182,CUST0255,PROJ003,2016-06-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0183,CUST0256,PROJ003,2016-07-19,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0184,CUST0258,PROJ002,2014-10-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0185,CUST0259,PROJ003,2016-03-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0186,CUST0260,PROJ003,2016-01-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0187,CUST0261,PROJ002,2015-07-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0188,CUST0262,PROJ002,2014-11-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0189,CUST0264,PROJ003,2016-11-10,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0190,CUST0265,PROJ002,2015-05-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0191,CUST0266,PROJ003,2016-09-13,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0192,CUST0268,PROJ002,2014-12-28,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0193,CUST0269,PROJ003,2016-06-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0194,CUST0270,PROJ003,2016-01-11,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0195,CUST0271,PROJ002,2014-11-03,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0196,CUST0273,PROJ002,2015-04-12,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0197,CUST0274,PROJ002,2014-09-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0198,CUST0275,PROJ003,2016-07-05,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0199,CUST0276,PROJ002,2015-01-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0200,CUST0278,PROJ003,2016-04-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0201,CUST0280,PROJ002,2015-04-28,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0202,CUST0281,PROJ002,2015-01-28,2,Significant delay in handover. The final product feels rushed.
+FDBK0203,CUST0282,PROJ003,2016-11-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0204,CUST0284,PROJ002,2015-07-14,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0205,CUST0289,PROJ002,2015-03-25,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0206,CUST0293,PROJ002,2015-04-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0207,CUST0294,PROJ003,2016-08-17,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0208,CUST0296,PROJ003,2016-11-08,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0209,CUST0299,PROJ003,2016-09-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0210,CUST0300,PROJ003,2016-04-14,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0211,CUST0302,PROJ003,2016-06-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0212,CUST0304,PROJ002,2015-01-26,2,Significant delay in handover. The final product feels rushed.
+FDBK0213,CUST0306,PROJ002,2015-07-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0214,CUST0307,PROJ003,2016-09-11,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0215,CUST0310,PROJ004,2018-02-16,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0216,CUST0313,PROJ004,2017-10-09,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0217,CUST0314,PROJ003,2016-09-09,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0218,CUST0318,PROJ004,2017-12-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0219,CUST0320,PROJ002,2015-05-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0220,CUST0323,PROJ004,2018-04-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0221,CUST0324,PROJ003,2016-04-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0222,CUST0325,PROJ002,2015-06-08,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0223,CUST0326,PROJ002,2015-02-27,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0224,CUST0327,PROJ003,2016-07-14,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0225,CUST0329,PROJ003,2016-09-07,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0226,CUST0330,PROJ003,2016-11-21,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0227,CUST0331,PROJ003,2016-08-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0228,CUST0333,PROJ003,2016-07-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0229,CUST0335,PROJ003,2016-07-06,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0230,CUST0336,PROJ004,2017-12-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0231,CUST0337,PROJ003,2016-01-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0232,CUST0338,PROJ004,2017-06-24,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0233,CUST0339,PROJ003,2016-02-11,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0234,CUST0344,PROJ002,2015-07-12,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0235,CUST0345,PROJ004,2017-08-16,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0236,CUST0346,PROJ003,2016-06-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0237,CUST0347,PROJ003,2016-08-19,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0238,CUST0351,PROJ003,2016-01-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0239,CUST0352,PROJ003,2016-03-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0240,CUST0353,PROJ003,2016-07-04,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0241,CUST0354,PROJ002,2014-10-24,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0242,CUST0356,PROJ003,2016-09-11,2,Significant delay in handover. The final product feels rushed.
+FDBK0243,CUST0358,PROJ002,2015-07-21,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0244,CUST0360,PROJ003,2016-03-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0245,CUST0361,PROJ003,2016-01-02,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0246,CUST0362,PROJ003,2015-12-25,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0247,CUST0363,PROJ002,2015-08-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0248,CUST0365,PROJ002,2014-09-21,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0249,CUST0366,PROJ002,2015-07-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0250,CUST0367,PROJ003,2016-10-23,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0251,CUST0368,PROJ004,2017-12-23,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0252,CUST0369,PROJ003,2016-09-10,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0253,CUST0370,PROJ003,2016-10-11,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0254,CUST0372,PROJ003,2016-08-31,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0255,CUST0374,PROJ002,2015-01-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0256,CUST0376,PROJ003,2016-10-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0257,CUST0377,PROJ003,2016-06-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0258,CUST0379,PROJ002,2015-01-31,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0259,CUST0382,PROJ003,2016-08-07,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0260,CUST0383,PROJ004,2017-12-29,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0261,CUST0384,PROJ004,2018-02-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0262,CUST0385,PROJ003,2016-02-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0263,CUST0386,PROJ003,2016-11-22,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0264,CUST0389,PROJ003,2016-11-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0265,CUST0390,PROJ004,2017-12-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0266,CUST0392,PROJ003,2016-08-11,2,Significant delay in handover. The final product feels rushed.
+FDBK0267,CUST0394,PROJ004,2018-03-19,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0268,CUST0395,PROJ003,2016-10-09,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0269,CUST0398,PROJ003,2016-05-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0270,CUST0399,PROJ004,2017-08-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0271,CUST0402,PROJ004,2017-12-14,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0272,CUST0403,PROJ003,2016-04-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0273,CUST0404,PROJ003,2016-04-16,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0274,CUST0405,PROJ004,2017-06-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0275,CUST0407,PROJ003,2016-07-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0276,CUST0408,PROJ003,2016-10-08,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0277,CUST0409,PROJ003,2016-06-27,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0278,CUST0410,PROJ004,2017-10-02,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0279,CUST0411,PROJ004,2017-06-02,2,Significant delay in handover. The final product feels rushed.
+FDBK0280,CUST0412,PROJ003,2016-05-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0281,CUST0415,PROJ003,2016-05-15,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0282,CUST0416,PROJ003,2016-10-07,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0283,CUST0417,PROJ004,2018-03-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0284,CUST0418,PROJ003,2016-06-15,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0285,CUST0419,PROJ004,2017-09-02,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0286,CUST0421,PROJ003,2016-02-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0287,CUST0422,PROJ003,2016-07-06,2,Significant delay in handover. The final product feels rushed.
+FDBK0288,CUST0423,PROJ004,2018-01-01,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0289,CUST0424,PROJ003,2016-07-14,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0290,CUST0425,PROJ003,2016-03-23,2,Significant delay in handover. The final product feels rushed.
+FDBK0291,CUST0427,PROJ004,2017-10-19,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0292,CUST0428,PROJ003,2016-07-08,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0293,CUST0429,PROJ004,2017-09-22,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0294,CUST0431,PROJ004,2017-11-13,2,Significant delay in handover. The final product feels rushed.
+FDBK0295,CUST0432,PROJ003,2016-02-06,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0296,CUST0435,PROJ004,2017-11-04,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0297,CUST0436,PROJ004,2017-08-17,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0298,CUST0438,PROJ004,2018-03-20,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0299,CUST0439,PROJ004,2017-06-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0300,CUST0440,PROJ004,2017-12-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0301,CUST0441,PROJ003,2016-08-12,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0302,CUST0443,PROJ004,2017-10-15,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0303,CUST0444,PROJ004,2017-11-10,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0304,CUST0445,PROJ004,2018-01-30,2,Significant delay in handover. The final product feels rushed.
+FDBK0305,CUST0447,PROJ004,2017-12-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0306,CUST0449,PROJ003,2016-10-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0307,CUST0451,PROJ003,2016-05-05,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0308,CUST0452,PROJ004,2018-01-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0309,CUST0453,PROJ004,2017-12-18,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0310,CUST0454,PROJ004,2018-03-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0311,CUST0455,PROJ003,2016-02-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0312,CUST0456,PROJ003,2016-06-04,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0313,CUST0457,PROJ003,2016-11-13,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0314,CUST0458,PROJ003,2016-01-19,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0315,CUST0460,PROJ004,2017-11-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0316,CUST0462,PROJ004,2017-08-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0317,CUST0463,PROJ004,2017-06-30,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0318,CUST0464,PROJ004,2018-03-13,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0319,CUST0465,PROJ003,2016-01-31,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0320,CUST0466,PROJ003,2016-10-10,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0321,CUST0468,PROJ004,2017-05-30,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0322,CUST0470,PROJ004,2017-12-12,2,Significant delay in handover. The final product feels rushed.
+FDBK0323,CUST0471,PROJ004,2017-11-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0324,CUST0472,PROJ004,2017-12-19,2,Significant delay in handover. The final product feels rushed.
+FDBK0325,CUST0475,PROJ003,2016-06-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0326,CUST0476,PROJ003,2016-07-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0327,CUST0478,PROJ004,2018-04-03,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0328,CUST0480,PROJ004,2018-01-11,2,Significant delay in handover. The final product feels rushed.
+FDBK0329,CUST0481,PROJ003,2016-01-28,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0330,CUST0482,PROJ004,2018-03-02,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0331,CUST0483,PROJ003,2016-06-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0332,CUST0484,PROJ004,2018-04-12,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0333,CUST0486,PROJ003,2015-12-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0334,CUST0487,PROJ004,2017-11-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0335,CUST0488,PROJ003,2016-03-14,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0336,CUST0489,PROJ004,2018-02-22,2,Significant delay in handover. The final product feels rushed.
+FDBK0337,CUST0490,PROJ004,2017-06-23,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0338,CUST0491,PROJ003,2016-05-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0339,CUST0492,PROJ004,2017-07-26,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0340,CUST0493,PROJ004,2017-12-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0341,CUST0494,PROJ003,2016-03-06,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0342,CUST0495,PROJ003,2016-11-17,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0343,CUST0496,PROJ004,2017-11-16,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0344,CUST0497,PROJ004,2018-04-05,2,Significant delay in handover. The final product feels rushed.
+FDBK0345,CUST0498,PROJ004,2017-10-28,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0346,CUST0499,PROJ004,2018-03-26,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0347,CUST0500,PROJ004,2017-08-29,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0348,CUST0501,PROJ003,2016-06-26,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0349,CUST0503,PROJ005,2019-03-09,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0350,CUST0504,PROJ004,2017-07-25,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0351,CUST0505,PROJ004,2017-07-16,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0352,CUST0506,PROJ003,2016-01-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0353,CUST0507,PROJ005,2019-11-10,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0354,CUST0508,PROJ003,2016-04-01,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0355,CUST0509,PROJ003,2015-12-29,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0356,CUST0510,PROJ005,2019-07-14,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0357,CUST0511,PROJ005,2019-12-08,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0358,CUST0513,PROJ004,2017-10-10,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0359,CUST0515,PROJ005,2019-04-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0360,CUST0518,PROJ004,2017-12-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0361,CUST0519,PROJ004,2017-10-08,2,Significant delay in handover. The final product feels rushed.
+FDBK0362,CUST0522,PROJ004,2018-04-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0363,CUST0524,PROJ005,2019-12-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0364,CUST0525,PROJ004,2018-02-10,2,Significant delay in handover. The final product feels rushed.
+FDBK0365,CUST0526,PROJ004,2018-04-10,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0366,CUST0527,PROJ005,2019-02-28,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0367,CUST0528,PROJ005,2019-05-06,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0368,CUST0529,PROJ004,2018-02-26,2,Significant delay in handover. The final product feels rushed.
+FDBK0369,CUST0530,PROJ005,2019-09-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0370,CUST0531,PROJ004,2017-08-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0371,CUST0532,PROJ005,2019-10-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0372,CUST0533,PROJ005,2019-04-23,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0373,CUST0534,PROJ005,2019-10-01,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0374,CUST0536,PROJ005,2019-06-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0375,CUST0538,PROJ005,2019-08-08,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0376,CUST0540,PROJ005,2019-03-09,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0377,CUST0541,PROJ005,2019-05-24,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0378,CUST0542,PROJ004,2017-10-29,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0379,CUST0543,PROJ005,2019-04-01,2,Significant delay in handover. The final product feels rushed.
+FDBK0380,CUST0544,PROJ004,2017-06-18,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0381,CUST0545,PROJ004,2017-12-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0382,CUST0546,PROJ004,2017-09-23,2,Significant delay in handover. The final product feels rushed.
+FDBK0383,CUST0547,PROJ004,2017-09-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0384,CUST0548,PROJ004,2018-02-20,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0385,CUST0549,PROJ004,2017-09-28,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0386,CUST0550,PROJ005,2019-05-07,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0387,CUST0554,PROJ004,2017-12-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0388,CUST0555,PROJ005,2019-03-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0389,CUST0558,PROJ004,2018-02-12,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0390,CUST0559,PROJ004,2018-03-10,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0391,CUST0561,PROJ004,2017-11-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0392,CUST0562,PROJ005,2019-03-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0393,CUST0563,PROJ004,2018-01-22,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0394,CUST0566,PROJ005,2019-05-31,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0395,CUST0567,PROJ004,2017-10-11,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0396,CUST0568,PROJ005,2019-08-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0397,CUST0569,PROJ005,2019-03-20,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0398,CUST0570,PROJ005,2019-04-14,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0399,CUST0571,PROJ005,2019-11-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0400,CUST0572,PROJ004,2017-07-20,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0401,CUST0573,PROJ004,2017-08-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0402,CUST0574,PROJ004,2018-02-26,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0403,CUST0577,PROJ004,2017-11-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0404,CUST0579,PROJ005,2019-09-13,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0405,CUST0583,PROJ005,2019-01-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0406,CUST0584,PROJ005,2019-04-28,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0407,CUST0588,PROJ005,2019-03-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0408,CUST0589,PROJ004,2017-11-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0409,CUST0590,PROJ004,2017-10-06,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0410,CUST0591,PROJ005,2019-09-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0411,CUST0592,PROJ005,2019-06-05,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0412,CUST0594,PROJ004,2017-08-03,2,Significant delay in handover. The final product feels rushed.
+FDBK0413,CUST0595,PROJ005,2019-01-22,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0414,CUST0596,PROJ005,2019-01-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0415,CUST0598,PROJ005,2019-03-06,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0416,CUST0599,PROJ004,2017-10-13,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0417,CUST0600,PROJ005,2019-07-06,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0418,CUST0601,PROJ005,2019-11-20,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0419,CUST0605,PROJ004,2017-12-16,2,Significant delay in handover. The final product feels rushed.
+FDBK0420,CUST0606,PROJ005,2019-06-26,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0421,CUST0607,PROJ005,2019-05-04,2,Significant delay in handover. The final product feels rushed.
+FDBK0422,CUST0609,PROJ005,2019-05-15,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0423,CUST0610,PROJ004,2017-09-12,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0424,CUST0611,PROJ004,2017-06-24,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0425,CUST0612,PROJ004,2017-12-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0426,CUST0613,PROJ005,2019-03-08,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0427,CUST0619,PROJ004,2017-07-08,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0428,CUST0621,PROJ005,2019-04-30,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0429,CUST0623,PROJ004,2017-11-14,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0430,CUST0625,PROJ005,2019-04-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0431,CUST0626,PROJ004,2018-02-02,2,Significant delay in handover. The final product feels rushed.
+FDBK0432,CUST0627,PROJ004,2017-07-28,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0433,CUST0630,PROJ004,2018-03-29,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0434,CUST0631,PROJ004,2017-10-15,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0435,CUST0632,PROJ005,2019-11-19,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0436,CUST0633,PROJ005,2019-02-23,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0437,CUST0634,PROJ005,2019-11-30,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0438,CUST0637,PROJ004,2018-04-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0439,CUST0638,PROJ004,2017-10-27,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0440,CUST0639,PROJ005,2019-06-04,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0441,CUST0640,PROJ004,2017-10-16,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0442,CUST0641,PROJ005,2019-05-26,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0443,CUST0642,PROJ006,2020-09-30,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0444,CUST0643,PROJ006,2021-01-31,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0445,CUST0644,PROJ004,2017-09-25,2,Significant delay in handover. The final product feels rushed.
+FDBK0446,CUST0646,PROJ006,2021-05-13,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0447,CUST0648,PROJ004,2017-08-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0448,CUST0649,PROJ004,2018-04-14,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0449,CUST0650,PROJ006,2020-11-26,2,Significant delay in handover. The final product feels rushed.
+FDBK0450,CUST0653,PROJ006,2020-10-20,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0451,CUST0655,PROJ005,2019-11-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0452,CUST0656,PROJ006,2021-06-17,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0453,CUST0659,PROJ006,2021-02-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0454,CUST0660,PROJ006,2020-09-16,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0455,CUST0661,PROJ004,2018-04-20,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0456,CUST0662,PROJ006,2020-12-19,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0457,CUST0663,PROJ004,2017-08-24,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0458,CUST0664,PROJ005,2019-06-16,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0459,CUST0666,PROJ005,2019-07-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0460,CUST0667,PROJ005,2019-01-29,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0461,CUST0668,PROJ006,2020-10-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0462,CUST0669,PROJ005,2019-07-27,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0463,CUST0670,PROJ005,2019-06-25,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0464,CUST0672,PROJ004,2017-07-05,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0465,CUST0673,PROJ006,2021-06-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0466,CUST0674,PROJ006,2021-02-11,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0467,CUST0675,PROJ006,2021-05-19,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0468,CUST0676,PROJ006,2021-03-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0469,CUST0677,PROJ006,2021-02-16,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0470,CUST0678,PROJ006,2021-03-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0471,CUST0680,PROJ006,2021-07-09,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0472,CUST0684,PROJ006,2020-11-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0473,CUST0685,PROJ005,2019-04-12,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0474,CUST0686,PROJ006,2020-09-02,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0475,CUST0688,PROJ005,2019-07-04,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0476,CUST0690,PROJ006,2021-02-08,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0477,CUST0691,PROJ006,2020-11-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0478,CUST0692,PROJ006,2021-07-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0479,CUST0693,PROJ006,2020-09-02,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0480,CUST0695,PROJ006,2021-06-28,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0481,CUST0696,PROJ005,2019-07-06,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0482,CUST0699,PROJ005,2019-01-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0483,CUST0701,PROJ005,2019-10-09,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0484,CUST0702,PROJ006,2021-03-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0485,CUST0703,PROJ006,2021-04-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0486,CUST0707,PROJ005,2019-04-30,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0487,CUST0708,PROJ005,2019-10-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0488,CUST0710,PROJ006,2021-07-01,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0489,CUST0711,PROJ005,2019-01-26,2,Significant delay in handover. The final product feels rushed.
+FDBK0490,CUST0713,PROJ006,2020-09-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0491,CUST0715,PROJ005,2019-09-04,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0492,CUST0716,PROJ006,2021-03-19,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0493,CUST0717,PROJ006,2021-05-28,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0494,CUST0719,PROJ005,2019-08-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0495,CUST0720,PROJ005,2019-02-05,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0496,CUST0721,PROJ006,2021-07-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0497,CUST0722,PROJ006,2021-04-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0498,CUST0723,PROJ005,2019-03-13,2,Significant delay in handover. The final product feels rushed.
+FDBK0499,CUST0724,PROJ005,2019-10-24,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0500,CUST0726,PROJ006,2021-04-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0501,CUST0727,PROJ005,2019-02-13,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0502,CUST0728,PROJ005,2019-03-19,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0503,CUST0729,PROJ006,2021-04-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0504,CUST0732,PROJ006,2021-04-16,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0505,CUST0733,PROJ005,2019-09-13,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0506,CUST0734,PROJ006,2020-11-05,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0507,CUST0735,PROJ005,2019-08-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0508,CUST0737,PROJ006,2020-12-29,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0509,CUST0738,PROJ006,2021-02-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0510,CUST0739,PROJ005,2019-07-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0511,CUST0740,PROJ006,2021-05-06,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0512,CUST0741,PROJ005,2019-08-25,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0513,CUST0743,PROJ006,2020-11-14,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0514,CUST0744,PROJ005,2019-07-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0515,CUST0745,PROJ006,2021-06-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0516,CUST0746,PROJ006,2020-10-12,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0517,CUST0747,PROJ005,2019-11-22,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0518,CUST0748,PROJ006,2020-12-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0519,CUST0749,PROJ006,2021-06-02,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0520,CUST0750,PROJ005,2019-03-06,2,Significant delay in handover. The final product feels rushed.
+FDBK0521,CUST0751,PROJ006,2021-01-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0522,CUST0753,PROJ006,2020-11-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0523,CUST0755,PROJ006,2021-04-24,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0524,CUST0756,PROJ006,2021-04-19,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0525,CUST0757,PROJ006,2021-05-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0526,CUST0758,PROJ006,2021-07-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0527,CUST0759,PROJ006,2021-07-20,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0528,CUST0760,PROJ006,2020-12-19,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0529,CUST0761,PROJ005,2019-03-25,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0530,CUST0763,PROJ005,2019-10-27,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0531,CUST0764,PROJ006,2021-07-05,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0532,CUST0765,PROJ006,2021-03-06,2,Significant delay in handover. The final product feels rushed.
+FDBK0533,CUST0766,PROJ006,2021-03-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0534,CUST0767,PROJ005,2019-01-22,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0535,CUST0768,PROJ005,2019-09-26,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0536,CUST0769,PROJ006,2020-12-25,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0537,CUST0772,PROJ006,2021-06-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0538,CUST0778,PROJ005,2019-02-06,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0539,CUST0780,PROJ006,2020-09-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0540,CUST0781,PROJ005,2019-12-10,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0541,CUST0784,PROJ005,2019-08-29,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0542,CUST0785,PROJ006,2021-04-16,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0543,CUST0786,PROJ006,2020-12-01,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0544,CUST0790,PROJ005,2019-11-03,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0545,CUST0791,PROJ006,2021-03-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0546,CUST0792,PROJ007,2021-10-27,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0547,CUST0797,PROJ006,2021-07-08,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0548,CUST0798,PROJ005,2019-10-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0549,CUST0799,PROJ005,2019-04-07,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0550,CUST0800,PROJ006,2021-06-27,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0551,CUST0801,PROJ005,2019-11-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0552,CUST0802,PROJ005,2019-08-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0553,CUST0803,PROJ006,2020-10-01,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0554,CUST0805,PROJ006,2020-12-31,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0555,CUST0806,PROJ005,2019-07-18,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0556,CUST0807,PROJ006,2020-10-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0557,CUST0808,PROJ006,2021-07-06,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0558,CUST0809,PROJ005,2019-08-01,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0559,CUST0810,PROJ007,2022-08-16,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0560,CUST0811,PROJ005,2019-06-19,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0561,CUST0812,PROJ006,2020-09-16,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0562,CUST0813,PROJ005,2019-05-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0563,CUST0814,PROJ006,2021-05-31,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0564,CUST0815,PROJ006,2020-10-30,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0565,CUST0816,PROJ005,2019-11-01,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0566,CUST0817,PROJ006,2021-03-06,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0567,CUST0818,PROJ006,2020-11-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0568,CUST0819,PROJ007,2021-10-21,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0569,CUST0820,PROJ006,2021-01-27,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0570,CUST0821,PROJ006,2021-05-09,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0571,CUST0822,PROJ007,2022-06-20,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0572,CUST0823,PROJ006,2021-01-01,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0573,CUST0824,PROJ007,2022-03-08,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0574,CUST0825,PROJ005,2019-06-14,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0575,CUST0826,PROJ006,2021-01-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0576,CUST0827,PROJ006,2021-05-19,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0577,CUST0829,PROJ006,2020-10-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0578,CUST0830,PROJ006,2021-06-06,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0579,CUST0833,PROJ007,2022-08-30,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0580,CUST0834,PROJ005,2019-04-26,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0581,CUST0835,PROJ006,2021-06-03,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0582,CUST0836,PROJ006,2020-11-24,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0583,CUST0838,PROJ007,2021-10-16,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0584,CUST0839,PROJ006,2021-03-04,2,Significant delay in handover. The final product feels rushed.
+FDBK0585,CUST0840,PROJ005,2019-02-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0586,CUST0841,PROJ006,2021-03-19,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0587,CUST0842,PROJ006,2020-09-25,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0588,CUST0843,PROJ006,2021-03-23,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0589,CUST0844,PROJ005,2019-02-18,2,Significant delay in handover. The final product feels rushed.
+FDBK0590,CUST0845,PROJ006,2021-06-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0591,CUST0846,PROJ005,2019-12-08,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0592,CUST0847,PROJ006,2021-04-14,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0593,CUST0849,PROJ006,2020-10-23,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0594,CUST0851,PROJ006,2021-03-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0595,CUST0852,PROJ005,2019-12-09,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0596,CUST0853,PROJ006,2021-06-19,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0597,CUST0856,PROJ005,2019-08-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0598,CUST0857,PROJ008,2022-11-03,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0599,CUST0858,PROJ006,2021-04-06,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0600,CUST0859,PROJ008,2022-12-22,2,Significant delay in handover. The final product feels rushed.
+FDBK0601,CUST0860,PROJ007,2022-04-25,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0602,CUST0861,PROJ006,2021-06-06,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0603,CUST0862,PROJ006,2021-01-06,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0604,CUST0864,PROJ006,2021-05-14,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0605,CUST0865,PROJ007,2021-11-03,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0606,CUST0867,PROJ006,2021-02-02,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0607,CUST0868,PROJ008,2022-12-01,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0608,CUST0869,PROJ006,2021-03-12,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0609,CUST0871,PROJ006,2020-12-13,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0610,CUST0872,PROJ006,2021-01-02,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0611,CUST0873,PROJ008,2022-05-23,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0612,CUST0875,PROJ008,2022-08-15,2,Significant delay in handover. The final product feels rushed.
+FDBK0613,CUST0876,PROJ006,2021-03-05,2,Significant delay in handover. The final product feels rushed.
+FDBK0614,CUST0880,PROJ008,2022-09-17,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0615,CUST0881,PROJ006,2020-08-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0616,CUST0882,PROJ008,2022-12-29,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0617,CUST0883,PROJ006,2020-08-24,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0618,CUST0884,PROJ007,2022-05-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0619,CUST0885,PROJ008,2023-01-21,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0620,CUST0887,PROJ007,2022-07-20,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0621,CUST0888,PROJ008,2022-11-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0622,CUST0890,PROJ008,2023-01-30,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0623,CUST0892,PROJ006,2021-04-21,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0624,CUST0893,PROJ006,2021-02-25,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0625,CUST0894,PROJ006,2021-05-23,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0626,CUST0895,PROJ006,2020-09-03,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0627,CUST0896,PROJ006,2021-02-08,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0628,CUST0898,PROJ008,2022-06-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0629,CUST0899,PROJ008,2022-04-24,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0630,CUST0903,PROJ006,2021-02-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0631,CUST0904,PROJ006,2020-12-12,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0632,CUST0906,PROJ008,2022-04-23,2,Significant delay in handover. The final product feels rushed.
+FDBK0633,CUST0907,PROJ007,2022-08-07,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0634,CUST0908,PROJ006,2021-04-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0635,CUST0910,PROJ006,2020-10-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0636,CUST0911,PROJ006,2021-06-28,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0637,CUST0912,PROJ006,2020-09-29,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0638,CUST0913,PROJ006,2021-05-14,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0639,CUST0914,PROJ006,2020-09-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0640,CUST0915,PROJ008,2022-07-26,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0641,CUST0917,PROJ008,2022-06-26,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0642,CUST0918,PROJ006,2020-10-12,2,Significant delay in handover. The final product feels rushed.
+FDBK0643,CUST0922,PROJ008,2022-08-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0644,CUST0923,PROJ008,2022-06-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0645,CUST0925,PROJ007,2021-11-19,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0646,CUST0926,PROJ007,2021-11-02,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0647,CUST0927,PROJ007,2022-07-27,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0648,CUST0930,PROJ008,2022-04-30,2,Significant delay in handover. The final product feels rushed.
+FDBK0649,CUST0931,PROJ007,2022-06-10,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0650,CUST0932,PROJ006,2021-06-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0651,CUST0933,PROJ008,2023-01-31,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0652,CUST0934,PROJ008,2022-04-20,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0653,CUST0935,PROJ008,2022-08-10,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0654,CUST0936,PROJ006,2021-04-28,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0655,CUST0938,PROJ006,2021-02-17,2,Significant delay in handover. The final product feels rushed.
+FDBK0656,CUST0939,PROJ006,2021-03-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0657,CUST0940,PROJ007,2022-07-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0658,CUST0941,PROJ008,2022-04-26,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0659,CUST0942,PROJ008,2023-02-15,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0660,CUST0943,PROJ006,2020-09-21,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0661,CUST0944,PROJ006,2021-01-13,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0662,CUST0947,PROJ008,2023-01-14,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0663,CUST0948,PROJ008,2023-01-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0664,CUST0949,PROJ006,2020-11-09,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0665,CUST0950,PROJ006,2021-02-08,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0666,CUST0952,PROJ008,2023-02-04,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0667,CUST0953,PROJ008,2022-09-12,2,Significant delay in handover. The final product feels rushed.
+FDBK0668,CUST0955,PROJ006,2021-03-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0669,CUST0956,PROJ008,2022-08-25,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0670,CUST0958,PROJ008,2022-05-16,2,Significant delay in handover. The final product feels rushed.
+FDBK0671,CUST0960,PROJ008,2023-01-07,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0672,CUST0961,PROJ008,2022-11-01,2,Significant delay in handover. The final product feels rushed.
+FDBK0673,CUST0965,PROJ008,2022-10-13,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0674,CUST0968,PROJ008,2022-11-13,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0675,CUST0969,PROJ006,2021-06-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0676,CUST0970,PROJ007,2022-03-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0677,CUST0971,PROJ006,2021-07-03,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0678,CUST0972,PROJ006,2021-05-11,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0679,CUST0973,PROJ007,2022-02-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0680,CUST0975,PROJ008,2022-04-26,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0681,CUST0976,PROJ008,2022-06-07,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0682,CUST0977,PROJ006,2021-07-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0683,CUST0979,PROJ007,2022-02-21,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0684,CUST0981,PROJ008,2022-04-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0685,CUST0982,PROJ006,2021-06-13,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0686,CUST0984,PROJ006,2021-07-03,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0687,CUST0985,PROJ008,2022-12-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0688,CUST0986,PROJ008,2022-10-29,2,Significant delay in handover. The final product feels rushed.
+FDBK0689,CUST0987,PROJ008,2022-11-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0690,CUST0988,PROJ008,2022-08-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0691,CUST0989,PROJ008,2022-12-22,2,Significant delay in handover. The final product feels rushed.
+FDBK0692,CUST0991,PROJ008,2022-07-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0693,CUST0992,PROJ008,2022-08-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0694,CUST0993,PROJ007,2022-09-02,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0695,CUST0994,PROJ008,2022-05-30,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0696,CUST0995,PROJ006,2020-11-20,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0697,CUST0996,PROJ006,2021-07-18,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0698,CUST1001,PROJ008,2022-07-09,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0699,CUST1002,PROJ008,2022-09-21,2,Significant delay in handover. The final product feels rushed.
+FDBK0700,CUST1004,PROJ008,2022-11-18,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0701,CUST1006,PROJ008,2022-08-27,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0702,CUST1007,PROJ008,2023-02-06,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0703,CUST1008,PROJ006,2021-07-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0704,CUST1009,PROJ008,2022-09-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0705,CUST1010,PROJ008,2022-11-09,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0706,CUST1011,PROJ006,2021-02-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0707,CUST1012,PROJ007,2021-11-30,2,Significant delay in handover. The final product feels rushed.
+FDBK0708,CUST1013,PROJ007,2022-02-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0709,CUST1014,PROJ008,2022-08-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0710,CUST1015,PROJ008,2022-06-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0711,CUST1016,PROJ006,2021-05-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0712,CUST1019,PROJ006,2020-12-11,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0713,CUST1022,PROJ008,2022-08-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0714,CUST1023,PROJ007,2022-09-02,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0715,CUST1024,PROJ007,2021-10-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0716,CUST1025,PROJ008,2022-05-08,2,Significant delay in handover. The final product feels rushed.
+FDBK0717,CUST1027,PROJ006,2021-04-02,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0718,CUST1028,PROJ008,2022-12-24,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0719,CUST1029,PROJ006,2020-11-28,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0720,CUST1030,PROJ008,2022-08-29,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0721,CUST1031,PROJ006,2021-05-23,2,Significant delay in handover. The final product feels rushed.
+FDBK0722,CUST1032,PROJ006,2020-11-17,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0723,CUST1033,PROJ006,2021-03-20,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0724,CUST1034,PROJ006,2021-01-28,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0725,CUST1036,PROJ006,2020-12-22,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0726,CUST1040,PROJ008,2022-05-15,2,Significant delay in handover. The final product feels rushed.
+FDBK0727,CUST1041,PROJ008,2022-11-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0728,CUST1042,PROJ006,2021-02-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0729,CUST1043,PROJ008,2022-11-25,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0730,CUST1046,PROJ006,2021-05-04,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0731,CUST1047,PROJ006,2020-08-27,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0732,CUST1049,PROJ006,2020-10-10,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0733,CUST1050,PROJ008,2022-10-25,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0734,CUST1053,PROJ008,2022-12-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0735,CUST1054,PROJ006,2020-11-13,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0736,CUST1055,PROJ006,2021-03-01,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0737,CUST1056,PROJ008,2022-09-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0738,CUST1057,PROJ006,2021-01-13,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0739,CUST1058,PROJ008,2022-07-15,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0740,CUST1059,PROJ008,2022-05-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0741,CUST1060,PROJ006,2020-12-10,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0742,CUST1062,PROJ008,2022-08-28,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0743,CUST1064,PROJ007,2022-08-01,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0744,CUST1065,PROJ006,2021-06-18,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0745,CUST1066,PROJ008,2022-04-15,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0746,CUST1068,PROJ006,2020-10-18,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0747,CUST1071,PROJ006,2020-10-29,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0748,CUST1072,PROJ007,2022-04-11,2,Significant delay in handover. The final product feels rushed.
+FDBK0749,CUST1073,PROJ007,2021-11-15,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0750,CUST1074,PROJ007,2022-06-01,2,Significant delay in handover. The final product feels rushed.
+FDBK0751,CUST1075,PROJ008,2022-07-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0752,CUST1077,PROJ006,2021-03-09,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0753,CUST1078,PROJ006,2020-09-28,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0754,CUST1081,PROJ006,2021-01-16,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0755,CUST1082,PROJ008,2022-08-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0756,CUST1083,PROJ008,2022-04-29,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0757,CUST1085,PROJ008,2023-02-09,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0758,CUST1086,PROJ006,2021-04-17,2,Significant delay in handover. The final product feels rushed.
+FDBK0759,CUST1091,PROJ007,2022-04-14,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0760,CUST1092,PROJ008,2022-09-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0761,CUST1093,PROJ007,2022-06-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0762,CUST1094,PROJ008,2022-07-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0763,CUST1095,PROJ006,2020-09-18,2,Significant delay in handover. The final product feels rushed.
+FDBK0764,CUST1097,PROJ006,2021-05-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0765,CUST1098,PROJ007,2022-08-03,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0766,CUST1099,PROJ008,2022-12-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0767,CUST1101,PROJ006,2020-11-26,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0768,CUST1102,PROJ007,2022-05-14,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0769,CUST1104,PROJ008,2023-02-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0770,CUST1105,PROJ008,2022-07-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0771,CUST1106,PROJ006,2021-03-13,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0772,CUST1107,PROJ006,2021-07-19,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0773,CUST1109,PROJ008,2023-02-22,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0774,CUST1112,PROJ007,2022-02-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0775,CUST1113,PROJ007,2021-11-09,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0776,CUST1114,PROJ008,2023-02-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0777,CUST1115,PROJ008,2023-01-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0778,CUST1116,PROJ007,2021-11-16,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0779,CUST1117,PROJ007,2022-04-30,2,Significant delay in handover. The final product feels rushed.
+FDBK0780,CUST1118,PROJ008,2022-12-27,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0781,CUST1119,PROJ007,2022-02-08,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0782,CUST1122,PROJ008,2022-07-28,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0783,CUST1124,PROJ007,2022-04-16,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0784,CUST1125,PROJ008,2023-02-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0785,CUST1127,PROJ008,2022-09-21,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0786,CUST1129,PROJ008,2022-06-14,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0787,CUST1132,PROJ007,2022-07-17,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0788,CUST1135,PROJ008,2022-08-22,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0789,CUST1136,PROJ008,2022-05-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0790,CUST1137,PROJ007,2022-08-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0791,CUST1140,PROJ007,2022-05-17,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0792,CUST1141,PROJ008,2022-11-28,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0793,CUST1142,PROJ008,2022-09-25,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0794,CUST1143,PROJ008,2023-01-24,2,Significant delay in handover. The final product feels rushed.
+FDBK0795,CUST1144,PROJ007,2022-04-25,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0796,CUST1146,PROJ008,2022-11-18,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0797,CUST1147,PROJ008,2022-12-27,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0798,CUST1148,PROJ007,2022-08-04,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0799,CUST1149,PROJ007,2021-10-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0800,CUST1150,PROJ008,2022-10-12,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0801,CUST1153,PROJ007,2022-07-04,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0802,CUST1154,PROJ008,2022-09-14,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0803,CUST1155,PROJ007,2022-01-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0804,CUST1156,PROJ007,2022-06-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0805,CUST1157,PROJ008,2022-09-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0806,CUST1158,PROJ007,2022-06-08,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0807,CUST1159,PROJ008,2022-10-19,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0808,CUST1161,PROJ007,2021-10-12,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0809,CUST1162,PROJ008,2022-11-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0810,CUST1163,PROJ008,2022-10-22,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0811,CUST1164,PROJ007,2022-06-10,2,Significant delay in handover. The final product feels rushed.
+FDBK0812,CUST1166,PROJ009,2025-01-17,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0813,CUST1167,PROJ008,2022-08-19,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0814,CUST1168,PROJ008,2022-08-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0815,CUST1169,PROJ009,2024-10-14,2,Significant delay in handover. The final product feels rushed.
+FDBK0816,CUST1170,PROJ008,2023-01-21,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0817,CUST1172,PROJ008,2022-05-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0818,CUST1173,PROJ009,2025-06-10,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0819,CUST1175,PROJ008,2022-05-31,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0820,CUST1176,PROJ008,2022-08-15,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0821,CUST1177,PROJ008,2023-01-26,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0822,CUST1179,PROJ007,2022-04-04,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0823,CUST1181,PROJ007,2022-03-10,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0824,CUST1184,PROJ008,2022-11-29,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0825,CUST1186,PROJ009,2025-06-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0826,CUST1187,PROJ009,2025-05-02,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0827,CUST1191,PROJ009,2025-01-05,2,Significant delay in handover. The final product feels rushed.
+FDBK0828,CUST1194,PROJ008,2022-11-27,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0829,CUST1195,PROJ008,2022-09-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0830,CUST1198,PROJ007,2022-07-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0831,CUST1199,PROJ008,2022-08-21,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0832,CUST1201,PROJ008,2022-07-12,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0833,CUST1202,PROJ008,2022-10-28,2,Significant delay in handover. The final product feels rushed.
+FDBK0834,CUST1203,PROJ008,2022-10-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0835,CUST1204,PROJ009,2024-10-14,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0836,CUST1206,PROJ008,2022-09-08,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0837,CUST1207,PROJ009,2024-08-10,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0838,CUST1208,PROJ008,2022-08-27,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0839,CUST1209,PROJ009,2024-09-29,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0840,CUST1211,PROJ007,2022-04-13,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0841,CUST1212,PROJ007,2022-05-28,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0842,CUST1214,PROJ008,2022-07-20,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0843,CUST1215,PROJ007,2022-03-06,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0844,CUST1217,PROJ009,2024-12-19,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0845,CUST1218,PROJ007,2022-01-09,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0846,CUST1220,PROJ008,2023-01-10,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0847,CUST1222,PROJ008,2023-02-04,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0848,CUST1224,PROJ008,2022-09-27,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0849,CUST1225,PROJ009,2024-10-23,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0850,CUST1226,PROJ009,2025-01-27,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0851,CUST1227,PROJ009,2024-09-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0852,CUST1228,PROJ008,2022-08-09,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0853,CUST1229,PROJ009,2024-08-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0854,CUST1230,PROJ007,2022-07-21,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0855,CUST1231,PROJ008,2023-01-18,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0856,CUST1232,PROJ008,2022-12-18,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0857,CUST1233,PROJ007,2022-05-27,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0858,CUST1234,PROJ009,2024-12-05,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0859,CUST1235,PROJ008,2022-07-07,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0860,CUST1236,PROJ008,2022-06-29,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0861,CUST1237,PROJ009,2025-02-19,2,Significant delay in handover. The final product feels rushed.
+FDBK0862,CUST1238,PROJ008,2023-01-08,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0863,CUST1239,PROJ009,2024-11-24,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0864,CUST1241,PROJ009,2025-01-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0865,CUST1243,PROJ008,2022-11-01,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0866,CUST1244,PROJ009,2025-05-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0867,CUST1247,PROJ008,2022-08-03,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0868,CUST1248,PROJ009,2025-04-12,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0869,CUST1249,PROJ008,2022-05-18,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0870,CUST1251,PROJ008,2022-06-28,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0871,CUST1252,PROJ009,2024-12-24,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0872,CUST1253,PROJ009,2024-08-02,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0873,CUST1254,PROJ008,2022-08-04,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0874,CUST1255,PROJ008,2022-07-07,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0875,CUST1257,PROJ009,2025-03-11,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0876,CUST1258,PROJ008,2022-05-02,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0877,CUST1259,PROJ008,2022-12-02,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0878,CUST1260,PROJ008,2022-12-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0879,CUST1263,PROJ009,2024-11-23,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0880,CUST1264,PROJ009,2025-04-20,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0881,CUST1265,PROJ008,2022-10-14,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0882,CUST1266,PROJ008,2022-12-22,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0883,CUST1267,PROJ009,2024-11-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0884,CUST1268,PROJ008,2022-06-02,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0885,CUST1269,PROJ009,2025-03-31,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0886,CUST1270,PROJ008,2022-12-25,2,Significant delay in handover. The final product feels rushed.
+FDBK0887,CUST1272,PROJ009,2025-01-08,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0888,CUST1273,PROJ009,2024-09-05,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0889,CUST1276,PROJ008,2022-10-20,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0890,CUST1277,PROJ009,2025-06-04,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0891,CUST1278,PROJ008,2022-12-18,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0892,CUST1279,PROJ008,2022-11-04,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0893,CUST1280,PROJ009,2025-01-06,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0894,CUST1283,PROJ008,2022-09-09,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0895,CUST1284,PROJ009,2025-01-11,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0896,CUST1285,PROJ009,2025-01-09,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0897,CUST1287,PROJ009,2025-06-09,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0898,CUST1288,PROJ009,2025-01-23,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0899,CUST1290,PROJ009,2024-08-24,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0900,CUST1291,PROJ009,2025-03-05,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0901,CUST1292,PROJ009,2025-03-08,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0902,CUST1295,PROJ009,2025-02-03,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0903,CUST1296,PROJ009,2025-05-25,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0904,CUST1297,PROJ009,2025-06-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0905,CUST1298,PROJ009,2024-11-02,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0906,CUST1299,PROJ009,2024-08-07,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0907,CUST1301,PROJ009,2025-03-26,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0908,CUST1302,PROJ009,2025-03-07,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0909,CUST1304,PROJ009,2025-04-23,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0910,CUST1305,PROJ009,2024-12-24,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0911,CUST1306,PROJ009,2024-09-29,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0912,CUST1307,PROJ009,2024-09-15,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0913,CUST1309,PROJ009,2025-01-12,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0914,CUST1310,PROJ009,2024-12-25,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0915,CUST1311,PROJ009,2025-03-31,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0916,CUST1312,PROJ009,2024-11-20,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0917,CUST1313,PROJ009,2024-11-22,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0918,CUST1316,PROJ009,2025-01-01,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0919,CUST1320,PROJ009,2024-12-27,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0920,CUST1321,PROJ009,2025-03-24,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0921,CUST1322,PROJ009,2025-04-22,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0922,CUST1323,PROJ009,2024-09-03,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0923,CUST1324,PROJ009,2024-11-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0924,CUST1325,PROJ009,2024-12-22,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0925,CUST1327,PROJ009,2024-09-18,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0926,CUST1328,PROJ009,2024-08-29,2,Significant delay in handover. The final product feels rushed.
+FDBK0927,CUST1330,PROJ009,2025-04-07,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0928,CUST1331,PROJ009,2024-12-29,2,Significant delay in handover. The final product feels rushed.
+FDBK0929,CUST1332,PROJ009,2025-05-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0930,CUST1335,PROJ009,2024-08-15,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0931,CUST1336,PROJ009,2024-10-27,2,Significant delay in handover. The final product feels rushed.
+FDBK0932,CUST1337,PROJ009,2024-11-29,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0933,CUST1339,PROJ009,2025-06-20,2,Significant delay in handover. The final product feels rushed.
+FDBK0934,CUST1341,PROJ009,2025-02-06,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0935,CUST1343,PROJ009,2025-04-05,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0936,CUST1344,PROJ009,2024-09-23,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0937,CUST1345,PROJ009,2025-02-09,2,Significant delay in handover. The final product feels rushed.
+FDBK0938,CUST1346,PROJ009,2024-09-18,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0939,CUST1348,PROJ009,2024-11-07,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0940,CUST1349,PROJ009,2024-08-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0941,CUST1350,PROJ009,2024-08-01,2,Build quality is not up to the mark. Facing issues with fittings.
+FDBK0942,CUST1351,PROJ009,2024-10-12,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0943,CUST1353,PROJ009,2025-02-09,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0944,CUST1354,PROJ009,2024-12-11,4,"Good project overall, but the clubhouse amenities were delayed."
+FDBK0945,CUST1356,PROJ009,2025-02-17,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0946,CUST1357,PROJ009,2024-11-06,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0947,CUST1361,PROJ009,2025-01-18,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0948,CUST1362,PROJ009,2025-03-01,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0949,CUST1363,PROJ009,2025-04-11,5,Truly a landmark project. The finish and attention to detail are superb.
+FDBK0950,CUST1365,PROJ009,2024-10-11,5,Excellent construction quality and timely delivery. Very happy!
+FDBK0951,CUST1366,PROJ009,2025-04-07,4,"Loved the apartment view, though the initial paperwork process was a bit slow."
+FDBK0952,CUST1368,PROJ009,2024-12-29,4,"Good project overall, but the clubhouse amenities were delayed."

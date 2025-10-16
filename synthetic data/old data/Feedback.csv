@@ -1,0 +1,16 @@
+FeedbackID,CustomerID,ProjectID,FeedbackDate,Rating,Comments
+FDBK0001,CUST0001,PROJ001,2013-06-15,5,Excellent construction quality and timely delivery. Very happy with my home in Serenity Gardens.
+FDBK0002,CUST0003,PROJ001,2013-07-01,4,Good project overall, but the clubhouse amenities were delayed.
+FDBK0003,CUST0006,PROJ002,2014-09-20,5,Truly a landmark project in Bandra. The finish and attention to detail are superb.
+FDBK0004,CUST0008,PROJ002,2014-10-11,4,Loved the apartment view, though the initial paperwork process was a bit slow.
+FDBK0005,CUST0011,PROJ003,2016-01-05,3,"Average experience. Construction is solid, but there were some plumbing issues after moving in."
+FDBK0006,CUST0014,PROJ003,2016-02-18,5,"Perfect location in Whitefield for IT professionals. The developer delivered on all promises."
+FDBK0007,CUST0017,PROJ002,2015-01-25,4,"The society management is very professional. A great place to live."
+FDBK0008,CUST0020,PROJ001,2013-08-10,4,"Satisfied with the purchase. Good value for money."
+FDBK0009,CUST0025,PROJ004,2017-06-12,2,"Significant delay in handover. The final product feels rushed and build quality is not up to the mark."
+FDBK0010,CUST0030,PROJ004,2017-07-02,5,"A green oasis in the middle of Delhi. The builder has done a fantastic job with the landscaping and amenities."
+FDBK0011,CUST0041,PROJ005,2019-02-01,4,"Good project in a prime Chennai location. Sales team was very helpful throughout the process."
+FDBK0012,CUST0055,PROJ006,2020-09-15,5,"Capital Heights is the best community in Gachibowli. World-class amenities and great construction."
+FDBK0013,CUST0062,PROJ006,2020-10-20,3,"The apartment is nice, but maintenance fees are higher than what was initially promised."
+FDBK0014,CUST0088,PROJ007,2021-11-30,5,"Waking up to a sea view every day is a dream come true. Worth every penny."
+FDBK0015,CUST0105,PROJ008,2022-05-14,4,"Luxury living at its finest. The concierge service is a great addition."

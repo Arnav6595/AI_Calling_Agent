@@ -1,0 +1,10 @@
+ProjectID,ProjectName,Location,LaunchDate,CompletionDate,TotalUnits,PriceRange(INR),UnitsSold
+PROJ001,Serenity Gardens,Pune - Hinjawadi,2010-03-15,2013-05-20,150,45L - 75L,135
+PROJ002,Royal Palms,Mumbai - Bandra,2011-06-10,2014-08-15,120,1.5Cr - 3.0Cr,108
+PROJ003,Cyber Vista,Bengaluru - Whitefield,2012-09-01,2015-11-25,200,60L - 1.1Cr,180
+PROJ004,Greenwood Estates,Delhi - Saket,2014-02-20,2017-04-30,180,1.2Cr - 2.5Cr,162
+PROJ005,Orchid Towers,Chennai - Adyar,2015-11-12,2018-12-18,160,80L - 1.5Cr,144
+PROJ006,Capital Heights,Hyderabad - Gachibowli,2017-04-05,2020-07-22,250,70L - 1.3Cr,225
+PROJ007,Sapphire Bay,Goa - Panaji,2018-08-25,2021-09-10,100,90L - 2.0Cr,90
+PROJ008,The Summit,Gurgaon - Golf Course Road,2019-01-30,2022-03-05,220,2.0Cr - 4.5Cr,198
+PROJ009,Emerald Enclave,Kolkata - Alipore,2021-05-18,2024-06-28,140,1.0Cr - 2.2Cr,126

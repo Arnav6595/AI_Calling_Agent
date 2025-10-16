@@ -1,0 +1,4 @@
+ProjectID,ProjectName,Location,LaunchDate,ExpectedCompletionDate,TotalUnits,UnitsBooked,CurrentStatus,PercentageCompletion
+PROJ010,Phoenix Rise,Pune - Kharadi,2022-08-10,2026-03-15,300,110,Construction in full swing; 15 floors completed,65
+PROJ011,Aqua Front,Mumbai - Navi Mumbai,2023-04-20,2027-06-30,250,85,Excavation and foundation work complete; Superstructure work started,40
+PROJ012,Tech Park One,Bengaluru - Electronic City,2024-01-15,2027-12-20,400,120,Plinth level construction underway,25
