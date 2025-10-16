@@ -19,4 +19,4 @@ COPY main.py .
 
 # 6. Define the command to run your application using Gunicorn
 # This command points to the 'app' object inside your 'main.py' file within the 'app' module.
-CMD ["gunicorn", "--bind", "0.0.0.0:$PORT", "--workers", "1", "--worker-class", "uvicorn.workers.UvicornWorker", "--timeout", "0", "app.main:app"]
+CMD gunicorn --bind 0.0.0.0:$PORT --workers 1 --worker-class uvicorn.workers.UvicornWorker --timeout 0 "main:app"
