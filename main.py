@@ -57,7 +57,7 @@ async def lifespan(app: FastAPI):
     logging.info("Embedding model loaded successfully.")
 
     logging.info(f"Connecting to vector store '{COLLECTION_NAME}'...")
-    engine = create_engine(NEON_DATABASE_URL)
+    engine = create_engine(NEON_DATABASE_URL, pool_pre_ping=True)
     vector_store = PGVector(
         connection=engine,
         collection_name=COLLECTION_NAME,
