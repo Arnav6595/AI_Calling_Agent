@@ -4,7 +4,7 @@ import logging
 import json
 import re
 from contextlib import asynccontextmanager
-from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Request, status
+from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Request, status, Depends, Header, HTTPException
 from fastapi.concurrency import run_in_threadpool  # Import for handling blocking calls
 from pydantic import BaseModel
 from dotenv import load_dotenv
@@ -151,11 +151,19 @@ async def get_agent_response(user_text: str) -> str:
     )
     return final_response.choices[0].message.content
 
+# --- Add this new function ---
+async def verify_token(x_auth_token: str = Header(...)):
+    """A dependency to verify the shared secret token."""
+    if not SHARED_SECRET or x_auth_token != SHARED_SECRET:
+        logging.warning("Authentication failed for /test-text-query.")
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid or missing authentication token")
+    logging.info("Authentication successful for /test-text-query.")
+
 # --- API Endpoints ---
 class TextQuery(BaseModel):
     query: str
 
-@app.post("/test-text-query")
+@app.post("/test-text-query", dependencies=[Depends(verify_token)])
 async def test_text_query_endpoint(query: TextQuery):
     """Endpoint for text-based testing via Swagger UI."""
     logging.info(f"Received text query: {query.query}")
