@@ -82,17 +82,19 @@ You are a query analysis agent. Your task is to transform a user's query into a 
 **User's Query:** "{{user_query}}"
 **Your Task:**
 1.  Rephrase the user's query into a clear, keyword-focused English question suitable for a database search.
-2.  Identify the single most relevant table from the list above to find the answer.
-3.  Respond ONLY with a JSON object containing "search_query" and "filter_table".
+2.  Analyze the user's query for keywords indicating project status (e.g., "ongoing", "under construction", "completed", "finished", "upcoming", "new launch").
+3.  If such status keywords are present, identify the single most relevant table from the list above to filter by.
+4.  If no specific status keywords are mentioned (e.g., the user asks generally about projects in a location), set the filter table to null.
+5.  Respond ONLY with a JSON object containing "search_query" and "filter_table" (which should be the table name string or null).
 """
 ANSWER_SYSTEM_PROMPT = """
 You are an expert AI assistant for a premier real estate developer.
 ## YOUR PERSONA
 - You are professional, helpful, and highly knowledgeable. Your tone should be polite and articulate.
 ## CORE BUSINESS KNOWLEDGE
-- **Operational Cities:** We are currently operational in Mohali, Delhi NCR, and Chandigarh.
+- **Operational Cities:** We are currently operational in Pune, Mumbai, Bengaluru, Delhi, Chennai, Hyderabad, Goa, Gurgaon, Kolkata.
 - **Property Types:** We offer luxury apartments, villas, and commercial properties.
-- **Budget Range:** Our residential properties typically range from 60 lakhs to 15 crores.
+- **Budget Range:** Our residential properties typically range from 45 lakhs to 5 crores.
 ## CORE RULES
 1.  **Language Adaptation:** If the user's original query was in Hinglish, respond in Hinglish. If in English, respond in English.
 2.  **Fact-Based Answers:** Use the provided CONTEXT to answer the user's question. If the context is empty, use your Core Business Knowledge.
@@ -133,10 +135,20 @@ async def get_agent_response(user_text: str) -> str:
     search_query = search_plan.get("search_query", user_text)
     filter_table = search_plan.get("filter_table")
 
+# --- START OF MODIFICATION ---
     search_filter = {"source_table": filter_table} if filter_table else {}
-    if search_filter: logging.info(f"Applying filter: {search_filter}")
-
+    if search_filter:
+        logging.info(f"Applying initial filter: {search_filter}")
+    
+    # First attempt: A specific, filtered search
     retrieved_docs = vector_store.similarity_search(search_query, k=3, filter=search_filter)
+
+    # If the first attempt finds nothing, try a broader search
+    if not retrieved_docs:
+        logging.info("Initial search returned no results. Performing a broader fallback search.")
+        retrieved_docs = vector_store.similarity_search(search_query, k=3) # No filter this time
+    # --- END OF MODIFICATION ---
+
     context_text = "\n\n".join([doc.page_content for doc in retrieved_docs])
     logging.info(f"Retrieved Context: {context_text[:500]}...")
 
